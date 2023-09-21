@@ -1,1 +1,2 @@
-This repository is my portfolio of data analytics projects using Python, SQL, and BI tools
+Hi there,
+Welcome to my data portfolio! This code repository contains data analytics projects of Python, SQL I've written.
